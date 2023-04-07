@@ -20,5 +20,6 @@ Baudrate = 9600
 Oversampled by 16
 Sampling rate = 16*9600 = 153600
 Clk frequency = 100MHz
-SO, Count amount for counter = $`\frac{100*10^6}{153600}`$
+SO, Count amount for counter = $`(100*10^6)/(153600)`$
+```(100*10^6)/(153600)```
 
