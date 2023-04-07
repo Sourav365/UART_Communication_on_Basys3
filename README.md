@@ -20,6 +20,17 @@ Baudrate = 9600
 Oversampled by 16
 Sampling rate = 16*9600 = 153600
 Clk frequency = 100MHz
-SO, Count amount for counter = $`(100*10^6)/(153600)`$
-```(100*10^6)/(153600)```
+SO, Count amount for counter = (100*10^6)/(153600) = 651
 
+## 4. FIFO
+
+
+
+
+## States
+1. Idle
+2. Start
+3. Data
+4. Stop
+
+<img width="816" alt="image" src="https://user-images.githubusercontent.com/49667585/230664426-5fb61bd2-04b3-4da8-ab8a-8398001aff50.png">
