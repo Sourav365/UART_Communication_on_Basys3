@@ -37,7 +37,8 @@ SO, Count amount for counter = (100*10^6)/(153600) = 651
 
 ## Receiver State Diagram
 <img width="515" alt="image" src="https://user-images.githubusercontent.com/49667585/230708750-f00ae132-fdcf-43ac-b252-3909464cd73d.png">
-
+## Transmitter State Diagram
+<img width="524" alt="image" src="https://user-images.githubusercontent.com/49667585/230709075-cf109651-640d-4167-b495-9d2f1f83d2ac.png">
 
 
 
