@@ -34,3 +34,9 @@ SO, Count amount for counter = (100*10^6)/(153600) = 651
 4. Stop
 
 <img width="816" alt="image" src="https://user-images.githubusercontent.com/49667585/230664426-5fb61bd2-04b3-4da8-ab8a-8398001aff50.png">
+
+## Receiver State Diagram
+<img width="816" alt="image" src="https://user-images.githubusercontent.com/49667585/230707472-11f2bdba-85ca-441f-b1cd-368137540973.jpg">
+
+
+
