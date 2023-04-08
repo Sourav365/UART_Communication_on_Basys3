@@ -12,7 +12,7 @@ It is a shift reg. that **shifts bits in serially** at a _specific Baud Rate_ an
 ### Receiver Oversampling by 16
 It is a technique used by receiver block in UART to recover data by discriminating between valied inconing data and noise.
 To recognize 1-Bit, it takes 16 samples and based on **Majority**, it takes decision.
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/49667585/230663150-b5db840b-e380-4557-ad16-6e2ef2a3cf04.jpg">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/49667585/230663150-b5db840b-e380-4557-ad16-6e2ef2a3cf04.jpg">
 
 ## 3. Baud Rate Generator Block
 Generates Sample_ticks for the Receiver and Transmitter circuits.
@@ -38,7 +38,7 @@ SO, Count amount for counter = (100*10^6)/(153600) = 651
 ## Receiver State Diagram
 <img width="515" alt="image" src="https://user-images.githubusercontent.com/49667585/230708750-f00ae132-fdcf-43ac-b252-3909464cd73d.png">
 ## Transmitter State Diagram
-<img width="524" alt="image" src="https://user-images.githubusercontent.com/49667585/230709075-cf109651-640d-4167-b495-9d2f1f83d2ac.png">
+<img width="515" alt="image" src="https://user-images.githubusercontent.com/49667585/230709152-6df6479e-42a6-42a5-beee-7a8569a2689a.png">
 
 
 
