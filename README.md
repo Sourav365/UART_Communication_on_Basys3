@@ -21,9 +21,18 @@ Baudrate = 9600
 Oversampled by 16
 Sampling rate = 16*9600 = 153600
 Clk frequency = 100MHz
-SO, Count amount for counter = (100*10^6)/(153600) = 651
+SO, Count amount for counter = 
+```math
+\frac{100*10^6}{16*9600}=651
+```
 
 ## 4. FIFO
+<img width="531" alt="image" src="https://user-images.githubusercontent.com/49667585/230759421-8d88940c-2881-40f8-8f5e-0e99d4b50269.png">
+Components:
+
+1. RAM Memory
+2. Read pionter
+3. Write pointer
 
 
 
