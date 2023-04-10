@@ -25,6 +25,11 @@ SO, Count amount for counter =
 ```math
 \frac{100*10^6}{16*9600}=651
 ```
+When counter counting value goes to 651, 
+
+i) Counter value resets to 0.
+
+ii) sample_tick will be HIGH for 1 clk cycle, then goes to 0.
 
 ## 4. FIFO
 <img width="531" alt="image" src="https://user-images.githubusercontent.com/49667585/230759421-8d88940c-2881-40f8-8f5e-0e99d4b50269.png">
