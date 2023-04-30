@@ -69,3 +69,4 @@ set_property -dict { PACKAGE_PIN J1   IOSTANDARD LVCMOS33 } [get_ports {tx}];
 ```
 
 <img width="550" alt="image" src="https://user-images.githubusercontent.com/49667585/235340907-ad68e3e9-9fff-4e0f-b8ab-92d8e2285233.png">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/49667585/235341049-da6e867b-c153-4c62-b134-3ed6b5e3e4aa.png">
