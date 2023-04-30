@@ -68,12 +68,11 @@ set_property -dict { PACKAGE_PIN B18   IOSTANDARD LVCMOS33 } [get_ports rx]
 set_property -dict { PACKAGE_PIN J1   IOSTANDARD LVCMOS33 } [get_ports {tx}];
 ```
 
-<img width="550" alt="image" src="https://user-images.githubusercontent.com/49667585/235340907-ad68e3e9-9fff-4e0f-b8ab-92d8e2285233.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/49667585/235340907-ad68e3e9-9fff-4e0f-b8ab-92d8e2285233.png">
 
-<img width="550" alt="image" src="https://user-images.githubusercontent.com/49667585/235341049-da6e867b-c153-4c62-b134-3ed6b5e3e4aa.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/49667585/235341049-da6e867b-c153-4c62-b134-3ed6b5e3e4aa.png">
 
 'e'= 0b01100101 --> LSB is transmitted 1st.
 
-<img width="550" alt="image" src="https://user-images.githubusercontent.com/49667585/235341810-25218929-af4a-451a-8c61-ae1d382822c4.png">
-
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/49667585/235341912-b0b76e5a-1291-4822-b343-07cceaa1880d.png">
 
