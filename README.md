@@ -74,5 +74,6 @@ set_property -dict { PACKAGE_PIN J1   IOSTANDARD LVCMOS33 } [get_ports {tx}];
 
 'e'= 0b01100101 --> LSB is transmitted 1st.
 
-<img width="550" alt="image" src="https://user-images.githubusercontent.com/49667585/235341694-333a145e-e565-4e74-b94b-fa60db046e70.png">
+<img width="550" alt="image" src="https://user-images.githubusercontent.com/49667585/235341810-25218929-af4a-451a-8c61-ae1d382822c4.png">
+
 
