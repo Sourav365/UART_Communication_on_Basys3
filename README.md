@@ -56,5 +56,16 @@ Components:
 ## Transmitter State Diagram
 <img width="515" alt="image" src="https://user-images.githubusercontent.com/49667585/230709152-6df6479e-42a6-42a5-beee-7a8569a2689a.png">
 
+## Recevie and transmitt through another pins
 
+```
+#Receive through USB-RS232 Interface
+set_property -dict { PACKAGE_PIN B18   IOSTANDARD LVCMOS33 } [get_ports rx]
+```
 
+```
+#Transmitt through Pmod Header JA J1-pin and send to other device
+set_property -dict { PACKAGE_PIN J1   IOSTANDARD LVCMOS33 } [get_ports {tx}];
+```
+
+<img width="550" alt="image" src="https://user-images.githubusercontent.com/49667585/235340907-ad68e3e9-9fff-4e0f-b8ab-92d8e2285233.png">
