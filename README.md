@@ -17,10 +17,15 @@ To recognize 1-Bit, it takes 16 samples and based on **Majority**, it takes deci
 
 ## 3. Baud Rate Generator Block
 Generates Sample_ticks for the Receiver and Transmitter circuits.
+
 Baudrate = 9600
+
 Oversampled by 16
+
 Sampling rate = 16*9600 = 153600
+
 Clk frequency = 100MHz
+
 SO, Count amount for counter = 
 ```math
 \frac{100*10^6}{16*9600}=651
