@@ -1,3 +1,5 @@
+USB to UART chip on Basys3 -> FTDI FT2232HQ
+
 # UART_Communication_on_Basys3
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/49667585/230661644-889b4489-051e-4e9a-b4a1-743b27c13e46.png">
 
