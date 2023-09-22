@@ -38,6 +38,8 @@ i) Counter value resets to 0.
 
 ii) sample_tick will be HIGH for 1 clk cycle, then goes to 0.
 
+<img width="714" alt="image" src="https://github.com/Sourav365/UART_Communication_on_Basys3/assets/49667585/94eda23b-1b96-465b-98e5-f01f234122d2">
+
 ## 4. FIFO
 <img width="531" alt="image" src="https://user-images.githubusercontent.com/49667585/230759421-8d88940c-2881-40f8-8f5e-0e99d4b50269.png">
 Components:
